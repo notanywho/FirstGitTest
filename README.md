@@ -1,3 +1,3 @@
 # FirstGitTest
-##windows
-This is my first git test 'project'
+## windows
+This is my first git test `project`
